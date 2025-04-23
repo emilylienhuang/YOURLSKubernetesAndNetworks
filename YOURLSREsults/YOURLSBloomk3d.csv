@@ -1,0 +1,6 @@
+Metric,Value
+Average Shorten Time (s),0.3302
+Average Redirect Time (s),0.0295
+Average CPU Usage (%),18.08
+Average Memory Usage (%),91.62
+Throughput (requests/sec),1.43
