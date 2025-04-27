@@ -16,7 +16,9 @@ Further, Python should be installed on your machine and accessible through the c
 3. Generate plots from the Jupyter notebook combining the results of each deployment type trial run
 
 ## About the Tests
-**Performance Test**: This performance test uses Python to test the average URL shortening and redirection time in seconds, percent CPU usage, percent Memory usage, and throughput per second. The data is generated from fetching random Wikipedia articles with 30% repeated calls from previously seen websites. 
+**Performance Test**: This performance test uses Python to test the average URL shortening and redirection time in seconds, percent CPU usage, percent Memory usage, and throughput per second. The data is generated from fetching random Wikipedia articles with 30% repeated calls from previously seen websites.    
+
+
 
 **Locust Test:** The locust test puts in simple requests at a high rate to see how many requests per second the system can tolerate.
 
