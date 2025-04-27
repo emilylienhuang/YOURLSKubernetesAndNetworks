@@ -11,6 +11,7 @@ Docker Desktop is required to provide the underlying containerruntime for k3d an
 1. Start with the Docker Networks Guide
    * This will walk you through creating a YOURLS username and password and setting up the network configurations. Remember to tailor the scripts in this repository to your specific credentials
 2. Follow the Kubernetes guide
+3. Generate plots from the Jupyter notebook combining the results of each deployment type trial run
 
 ## Watch out for
 This project requires intensive CPU and memory usage. Without sufficient hardware, running this experiment can cause hardware failures, computer crashes, and memory loss.
