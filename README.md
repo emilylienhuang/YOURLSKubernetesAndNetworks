@@ -1,4 +1,4 @@
-# YOURLS, Kubernetes, and Networks
+# YOURLS, Kubernetes, and Docker Networks
 This repository walks you through a step-by-step guide into experimenting with container orchestration and microservice architecture.
 For the purposes of this application, we will be using Docker Desktop, K3d, and Docker Hub. 
 Docker Desktop is required to provide the underlying containerruntime for k3d and the Docker Network. K3d is a local version of Kubernetes used to simulate a producstion-level environment.
