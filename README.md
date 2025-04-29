@@ -25,4 +25,4 @@ Further, Python should be installed on your machine and accessible through the c
 ## Watch out for
 This project requires intensive CPU and memory usage. Without sufficient hardware, running this experiment can cause hardware failures, computer crashes, and memory loss.
 
-## GLAF and Happy Coding!
+## GLHF and Happy Coding!
